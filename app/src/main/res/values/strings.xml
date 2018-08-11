@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Fragminent Orientation changer</string>
+    <string name="portrait_mode_textView">Portrait fragment</string>
+    <string name="landscape_mode_textview">this is the landscape mode</string>
+</resources>
